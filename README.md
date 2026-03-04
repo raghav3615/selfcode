@@ -1,0 +1,1 @@
+## FreeCode - Open Source Alternative of Claude Code
